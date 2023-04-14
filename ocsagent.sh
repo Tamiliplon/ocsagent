@@ -6,4 +6,4 @@ tar xf Ocsinventory-Unix-Agent-2.9.3.tar.gz
 cd Ocsinventory-Unix-Agent-2.9.3/
 PERL_AUTOINSTALL=1 perl Makefile.PL
 
-sudo ./ocsinventory-agent --devlib --server https://ocs.iplon.co.in/ocsinventory
+sudo ./ocsinventory-agent --devlib --server http://ocs.iplon.co.in/ocsinventory
